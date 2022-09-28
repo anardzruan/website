@@ -1,0 +1,54 @@
+body{
+  background-color: #E1A193;
+}
+
+p{
+  color:white;
+}
+
+.second-par{
+  font-family:monospace;
+}
+
+.bio{
+  display: flex;
+}
+
+.contact{
+  list-style: circle;
+  color: white;
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
+h1{
+  color: #6F2A1C;
+  text-align: center;
+}
+h2{
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-align:left;
+}
+h3{
+  background-color:#D05D45;
+  text-decoration: underline;
+  text-align: center;
+}
+ul{
+  list-style-type: square;
+  font-style: italic;
+}
+
+ol{
+  list-style: circle;
+  color: white;
+}
+
+a{
+  color: #6F2A1C;
+  font-weight: bold;
+}
+
+}
